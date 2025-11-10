@@ -9,7 +9,6 @@ const techStack = [
   { name: "Firebase", icon: "🔥", color: "from-orange-400 to-yellow-500" },
   { name: "Figma", icon: "🎨", color: "from-pink-400 to-purple-500" },
   { name: "Node.js", icon: "🟢", color: "from-green-400 to-green-600" },
-  { name: "GraphQL", icon: "◇", color: "from-pink-500 to-purple-600" },
 ];
 
 export function TechIcons() {
