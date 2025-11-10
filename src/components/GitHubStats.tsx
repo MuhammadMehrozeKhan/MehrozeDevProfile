@@ -54,18 +54,18 @@ const stats = [
 ];
 
 const topLanguages = [
-  { name: "TypeScript", percentage: 45, color: "bg-blue-500" },
   {
     name: "JavaScript",
-    percentage: 30,
+    percentage: 80,
     color: "bg-yellow-500",
   },
   {
     name: "CSS/Tailwind",
-    percentage: 15,
+    percentage: 80,
     color: "bg-cyan-500",
   },
-  { name: "Other", percentage: 10, color: "bg-gray-500" },
+  { name: "TypeScript", percentage: 60, color: "bg-blue-500" },
+  { name: "Other", percentage: 30, color: "bg-gray-500" },
 ];
 
 export function GitHubStats() {
